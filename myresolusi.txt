@@ -1,3 +1,4 @@
 this is my resolusi
 -internship
 -build a project
+-goals
