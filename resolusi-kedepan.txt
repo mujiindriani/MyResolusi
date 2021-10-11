@@ -1,2 +1,4 @@
 ini file baru di branch ke 2
 apa resolusi yang ingin kamu kerjakan
+-internship
+-buildproject
